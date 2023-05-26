@@ -16,3 +16,8 @@ O que aprendi até o momento no Git?
 - gitignore
 
 // MODULO 2 - Estudando Branches
+
+- branch
+- checkout "name_branch"
+- branch -d
+- merge
