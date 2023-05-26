@@ -21,3 +21,8 @@ O que aprendi até o momento no Git?
 - checkout "name_branch"
 - branch -d
 - merge
+
+// MODULO 3 - Evoluindo com Git
+
+- tag (git tag -a versao_codigo -m "X versão do projeto")
+- checkout tag
